@@ -15,9 +15,6 @@ print the values in format
 End the program.
 ### PROGRAM:
 ```
-#Program to find the distance between two points.
-#Developed by:Pavithra.S
-#RegisterNumber:212223230147
 import math
 x1=10
 y1=6
@@ -29,10 +26,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![image](https://github.com/pavithraselvaraj30/DISTANCE-BETWEEN-TWO-POINTS/assets/149366880/87f4190e-db47-44ec-baf7-dbc0781488db)
-
-
-
+![Screenshot 2024-04-08 160337](https://github.com/pavithraselvaraj30/DISTANCE-BETWEEN-TWO-POINTS/assets/149366880/eecb0ee4-7274-4561-8313-cdc02fd242fe)
 
 ### RESULT:
 Thus the distance between two points successfully executed.
